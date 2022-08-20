@@ -1,0 +1,1 @@
+gcloud run deploy nome_api --source . --region us-central1

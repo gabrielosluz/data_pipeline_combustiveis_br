@@ -1,0 +1,122 @@
+[
+  {
+    "description": "",
+    "mode": "NULLABLE",
+    "name": "regiao_sigla",
+    "type": "STRING"
+  },
+  {
+    "description": "",
+    "mode": "NULLABLE",
+    "name": "estado_sigla",
+    "type": "STRING"
+  },
+  {
+    "description": "",
+    "mode": "NULLABLE",
+    "name": "municipio",
+    "type": "STRING"
+  },
+  {
+    "description": "",
+    "mode": "NULLABLE",
+    "name": "revenda",
+    "type": "STRING"
+  },
+  {
+    "description": "",
+    "mode": "NULLABLE",
+    "name": "cnpj_da_revenda",
+    "type": "STRING"
+  },
+  {
+    "description": "",
+    "mode": "NULLABLE",
+    "name": "nome_da_rua",
+    "type": "STRING"
+  },
+  {
+    "description": "",
+    "mode": "NULLABLE",
+    "name": "numero_rua",
+    "type": "INTEGER"
+  },
+  {
+    "description": "",
+    "mode": "NULLABLE",
+    "name": "complemento",
+    "type": "STRING"
+  },
+  {
+    "description": "",
+    "mode": "NULLABLE",
+    "name": "bairro",
+    "type": "STRING"
+  },
+  {
+    "description": "",
+    "mode": "NULLABLE",
+    "name": "cep",
+    "type": "STRING"
+  },
+  {
+    "description": "",
+    "mode": "NULLABLE",
+    "name": "produto",
+    "type": "STRING"
+  },
+  {
+    "description": "",
+    "mode": "NULLABLE",
+    "name": "data_da_coleta",
+    "type": "STRING"
+  },
+  {
+    "description": "",
+    "mode": "NULLABLE",
+    "name": "valor_de_venda",
+    "type": "FLOAT"
+  },
+  {
+    "description": "",
+    "mode": "NULLABLE",
+    "name": "valor_de_compra",
+    "type": "FLOAT"
+  },
+  {
+    "description": "",
+    "mode": "NULLABLE",
+    "name": "unidade_de_medida",
+    "type": "STRING"
+  },
+  {
+    "description": "",
+    "mode": "NULLABLE",
+    "name": "bandeira",
+    "type": "STRING"
+  },
+  {
+    "description": "",
+    "mode": "NULLABLE",
+    "name": "data",
+    "type": "DATE"
+  },
+  {
+    "description": "",
+    "mode": "NULLABLE",
+    "name": "ano",
+    "type": "STRING"
+  },
+  {
+    "description": "",
+    "mode": "NULLABLE",
+    "name": "semestre",
+    "type": "STRING"
+  },
+  {
+    "description": "",
+    "mode": "NULLABLE",
+    "name": "input_file_name",
+    "type": "STRING"
+  }
+]
