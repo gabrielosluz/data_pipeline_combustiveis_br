@@ -50,6 +50,6 @@ no formato especificado no atributo `formato_file_save`.
 
 Por último, foi desenvolvido um dashboard usando a ferramenta Data Studio, da GCP. Abaixo está o link do relatório bem como o link para acesso (Nessa parte do projeto peço desculpas pois data viz não é o meu forte mas estou em busca de melhora 🙃 ). 
 
-[Link](https://datastudio.google.com/s/o8V6TJH3OQU) para o dashboard.
+[Link](https://datastudio.google.com/reporting/854716d4-6f9d-4f3e-9bc6-f8f8f580cbd4) para o dashboard.
 
 ![alt text](./img/dashboard.png)
